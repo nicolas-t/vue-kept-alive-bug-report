@@ -17,7 +17,6 @@
         Click on Page3 link (page 1 is still deactivated, and routeName computed property is being computed, see console) <br>
       </li>
     </ul>
-
   </div>
   <div id="nav">
     <router-link to="/Page1">Page1</router-link> |
