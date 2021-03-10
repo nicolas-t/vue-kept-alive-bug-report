@@ -8,13 +8,16 @@
     steps to reproduce: <br>
     <ul>
       <li>
-        Click on Page1 link (page 1 is activated) <br>
+        Open console
       </li>
       <li>
-        Click on Page2 link (page 1 is deactivated) <br>
+        Click on Page1 link (page 1 is activated) 
       </li>
       <li>
-        Click on Page3 link (page 1 is still deactivated, and routeName computed property is being computed, see console) <br>
+        Click on Page2 link (page 1 is deactivated)
+      </li>
+      <li>
+        Click on Page3 link (page 1 is still deactivated, and routeName computed property is being computed, see console) 
       </li>
     </ul>
   </div>
